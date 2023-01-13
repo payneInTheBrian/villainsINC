@@ -12,7 +12,7 @@ Villains Inc band page
 
 # Objectives
 
-- It's an app that lets you host your own music and share it with others.
+- 
 
 ---
 
@@ -44,7 +44,7 @@ bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mon
 
 
 # Optimization
-  - 
+  
   
   ---
   
