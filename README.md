@@ -24,7 +24,7 @@ Villains Inc band page
 
 # Packages/Dependencies used 
 
-bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mongodb, mongoose, morgan, nodemon, passport, passport-local, validator
+dotenv, ejs
 
 ---
 
@@ -45,8 +45,7 @@ bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mon
 
 # Optimization
   
-  
-  ---
+  ---Make the front end look more like a comic book.
   
 # Other cool projects like this one
   - [Cloud Sounds](https://github.com/iPlayDrumsOnMyGuitar/cloudSounds)
