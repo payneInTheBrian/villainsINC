@@ -10,15 +10,10 @@ Villains Inc band page
 
 ---
 
-# Objectives
-
-- 
-
----
 
 # Who is this for? 
 
-- Fans
+- Music Fans
 
 ---
 
