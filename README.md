@@ -17,25 +17,6 @@ Villains Inc band page
 
 ---
 
-# Packages/Dependencies used 
-
-dotenv, ejs
-
----
-
-# Install all the dependencies or node packages used for development via Terminal
-
-`npm install` 
-
----
-
-# Run
-
-`npm start`
-
----
-
-# Things to add
 
 
 # Optimization
@@ -46,5 +27,6 @@ dotenv, ejs
   - [Cloud Sounds](https://github.com/iPlayDrumsOnMyGuitar/cloudSounds)
   - [SetLiszt](https://github.com/iPlayDrumsOnMyGuitar/Setliszt)
   - [McRonalds](https://github.com/iPlayDrumsOnMyGuitar/McRonalds)
+  - [Super Rad](https://github.com/iPlayDrumsOnMyGuitar/superRad)
   
   
